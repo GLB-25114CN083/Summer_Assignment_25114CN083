@@ -10,7 +10,7 @@ int main(){
         rev=rev*10+temp;
         n=n/10;
     }
-    if(rev=p){
+    if(rev==p){
         cout<<"PALINDROME NUMBER";
     }
     else{
